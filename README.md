@@ -1,7 +1,7 @@
 # Dremio : Appropriation Couches Sémantiques
 
 Ce référentiel est maintenu par Synaltic.
-http://synaltic.fr
+https://synaltic.fr
 
 Nous avons souvent blogué autour de Dremio
 https://www.synaltic.fr/blog/category/dremio
