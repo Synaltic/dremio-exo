@@ -1,0 +1,17 @@
+version: '3.7'
+
+services:
+  db:
+    build:
+      context: ./data/postgres-docker
+      dockerfile: Dockerfile
+    environment:
+       - POSTGRES_USER=postgres
+       - POSTGRES_PASSWORD=postgres
+  dremio:
+    image: dremio/dremio-oss:22.0
+    ports:
+      - "9047:9047"
+      - "31010:31010"
+      - "45678:45678"
+      - "32010:32010"
