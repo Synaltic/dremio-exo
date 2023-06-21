@@ -6,7 +6,7 @@ https://synaltic.fr
 Nous avons souvent blogué autour de Dremio
 https://www.synaltic.fr/blog/category/dremio
 
-Ici, il s'agit de fournir une configuration minimale pour aider à la découverte de Dremio et ses couches sémantique.
+Ici, il s'agit de fournir une configuration minimale pour aider à la découverte de Dremio et ses couches sémantiques.
 
 # contenu
 
