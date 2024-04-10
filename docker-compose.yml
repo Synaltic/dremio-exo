@@ -9,7 +9,7 @@ services:
        - POSTGRES_USER=postgres
        - POSTGRES_PASSWORD=postgres
   dremio:
-    image: dremio/dremio-oss:22.0
+    image: dremio/dremio-oss:25.0
     ports:
       - "9047:9047"
       - "31010:31010"
